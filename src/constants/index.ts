@@ -196,7 +196,7 @@ const testimonials: TTestimonial[] = [
     testimonial:
       "Focus on software development methodologies, version control, and debugging techniques for building scalable and maintainable software solutions.",
     name: "Software Engineering",
-    designation: "Certification Program",
+    designation: "Coursera",
     company: "",
     image: "https://randomuser.me/api/portraits/men/12.jpg",
   },
@@ -204,7 +204,7 @@ const testimonials: TTestimonial[] = [
     testimonial:
       "Course covering financial statements, risk management, and investment strategies for business decision-making in corporate environments.",
     name: "Corporate Finance",
-    designation: "Certification Program",
+    designation: "Linkedin Learning",
     company: "",
     image: "https://randomuser.me/api/portraits/women/13.jpg",
   },
