@@ -29,8 +29,8 @@ import {
   delloite,
   jpm,
   shogi,
-  jobit,
-  tripguide,
+  mediband,
+  ecoswap,
   threejs,
 } from "../assets";
 
@@ -225,9 +225,9 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/Priyadharshan2003/Shogi-Live-Game-play-Tracking.git",
   },
   {
-    name: "Job IT",
+    name: "Osen Fainde – Won Best Hardware Hack Award",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Developed an IoT-based device that detects air pollution levels in specific regions and alerts users in real time, Won the Best Hardware Hack Award for its innovative & potential for environmental impact, Incorporated real-time sensor data processing and a user-friendly interface, enhancing the device's practical application in urban environments.",
     tags: [
       {
         name: "react",
@@ -242,29 +242,29 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    sourceCodeLink: "https://github.com/",
+    image: mediband,
+    sourceCodeLink: "https://devfolio.co/projects/mediband-ae10",
   },
   {
-    name: "Trip Guide",
+    name: "ECO-SWAP – Presented as a Mini Project",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Developed an AI-driven waste classification model using deep learning to improve waste sorting efficiency, highlighting its potential for reducing contamination in the recycling process, Integrated machine learning algorithms to optimize the identification of recyclable materials, improving accuracy by over 15%.",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "figma",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    sourceCodeLink: "https://github.com/",
+    image: ecoswap,
+    sourceCodeLink: "https://www.figma.com/community/file/1392693808056424252/ecoswap",
   },
 ];
 

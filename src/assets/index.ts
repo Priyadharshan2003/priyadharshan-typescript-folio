@@ -27,8 +27,8 @@ import jpm from "./company/jpm.png";
 import ss from "./company/ss.png";
 
 import shogi from "./shogi.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import mediband from "./mediband.png";
+import ecoswap from "./ecoswap.png";
 
 export {
   logo,
@@ -57,6 +57,6 @@ export {
   infobyte,
   delloite,
   shogi,
-  jobit,
-  tripguide,
+  mediband,
+  ecoswap,
 };
