@@ -8,7 +8,7 @@
 [![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/commits)
 [![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/pulls)
 
-![demo](.github/README_ASSETS/3d-portfolio.png)
+![demo](image.png)
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
 [![License](https://img.shields.io/github/license/ladunjexa/reactjs18-3d-portfolio?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE)
@@ -114,24 +114,25 @@ reactjs18-3d-portfolio/
 
 <details><summary>Table of Contents</summary>
 
-- [Live Demo](#-live-demo)
-- [Description](#-description)
-- [Technologies Used](#-technologies-used)
-- [Get Started](#-get-started)
-  - [Prerequisites](#-prerequisites)
-  - [Installation and Run Locally](#-installation-and-run-locally)
-  - [Scripts](#-scripts)
-- [Environment Variables](#-environment-variables)
-- [Deployment](#-deployment)
-  - [Deploy to production (manual)](#-deploy-to-production-manual)
-  - [Deploy on Vercel (recommended)](#-deploy-on-vercel-recommended)
-  - [Deploy on Netlify](#-deploy-on-netlify)
-- [Contributing](#-contributing)
-  - [Bug / Feature Request](#-bug--feature-request)
-- [Acknowledgements](#-acknowledgements)
-- [References](#-references)
-- [Contact Us](#-contact-us)
-- [License](#-license)
+- [3D Portfolio](#3d-portfolio)
+  - [🌐 Live Demo](#-live-demo)
+  - [📝 Description](#-description)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [✨ Technologies Used](#-technologies-used)
+  - [🧰 Get Started](#-get-started)
+    - [📋 Prerequisites](#-prerequisites)
+    - [⚙️ Installation and Run Locally](#️-installation-and-run-locally)
+    - [📜 Scripts](#-scripts)
+  - [🔒 Environment Variables](#-environment-variables)
+  - [🚀 Deployment](#-deployment)
+      - [Deploy to production (manual)](#deploy-to-production-manual)
+      - [Deploy on Vercel (recommended)](#deploy-on-vercel-recommended)
+      - [Deploy on Netlify](#deploy-on-netlify)
+  - [🔧 Contributing](#-contributing)
+    - [📩 Bug / Feature Request](#-bug--feature-request)
+  - [💎 Acknowledgements](#-acknowledgements)
+  - [📞 Contact Us](#-contact-us)
+  - [📋 License](#-license)
 
 </details>
 
