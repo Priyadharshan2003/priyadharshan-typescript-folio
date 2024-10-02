@@ -28,7 +28,7 @@ import {
   ss,
   delloite,
   jpm,
-  carrent,
+  shogi,
   jobit,
   tripguide,
   threejs,
@@ -204,16 +204,16 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "Shogi-Tech Received ₹2Lakh Seed Funding",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Shogi Live Game Play Tracking is an innovative project designed to provide real-time tracking of Shogi (Japanese chess) game plays using sensors and web technologies. The project integrates hardware and software to automate the detection of Shogi piece movements on a physical board and display the live game state on a web application.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
@@ -221,8 +221,8 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    sourceCodeLink: "https://github.com/",
+    image: shogi,
+    sourceCodeLink: "https://github.com/Priyadharshan2003/Shogi-Live-Game-play-Tracking.git",
   },
   {
     name: "Job IT",

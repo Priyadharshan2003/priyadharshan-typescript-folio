@@ -26,7 +26,7 @@ import infobyte from "./company/infobyte.png";
 import jpm from "./company/jpm.png";
 import ss from "./company/ss.png";
 
-import carrent from "./carrent.png";
+import shogi from "./shogi.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -56,7 +56,7 @@ export {
   jpm,
   infobyte,
   delloite,
-  carrent,
+  shogi,
   jobit,
   tripguide,
 };
