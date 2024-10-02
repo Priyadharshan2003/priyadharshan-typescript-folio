@@ -185,7 +185,7 @@ const testimonials: TTestimonial[] = [
     name: "Advanced Data Analytics",
     designation: "Coursera",
     company: "",
-    image: "src/assets/coursera.png",
+    image: coursera,
   },
   {
     testimonial:
@@ -193,7 +193,7 @@ const testimonials: TTestimonial[] = [
     name: "UI / UX Design Specialization",
     designation: "Coursera",
     company: "",
-    image: "src/assets/coursera.png",
+    image: coursera,
   },
   {
     testimonial:
