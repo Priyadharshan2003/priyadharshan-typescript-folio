@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-
 import { styles } from "../../constants/styles";
 import { fadeIn } from "../../utils/motion";
 import { testimonials } from "../../constants";
@@ -12,21 +11,27 @@ const FeedbackCard: React.FC<{ index: number } & TTestimonial> = ({
   testimonial,
   name,
   designation,
-  company
+  company,
+  image, // Add image prop
 }) => (
   <motion.div
     variants={fadeIn("", "spring", index * 0.5, 0.75)}
     className="bg-black-200 xs:w-[320px] w-full rounded-3xl p-10"
   >
-    {/* Name and Company at the top */}
-    <div className="flex items-center justify-between gap-1">
-      <div className="flex flex-1 flex-col">
-        <p className="text-[18px] font-medium text-white">
-          {name}
-        </p>
-        <p className="text-secondary mt-1 text-[16px]">
-          {designation} {company}
-        </p>
+    {/* Name, Image, and Company at the top */}
+    <div className="flex items-center justify-between gap-4">
+      <div className="flex flex-1 items-center gap-3">
+        <img
+          src={image} // Display image
+          alt={name}
+          className="w-10 h-10 rounded-full object-cover" // Style image
+        />
+        <div className="flex flex-col">
+          <p className="text-[18px] font-medium text-white">{name}</p>
+          <p className="text-secondary mt-1 text-[16px]">
+            {designation} {company}
+          </p>
+        </div>
       </div>
     </div>
 

@@ -182,15 +182,15 @@ const testimonials: TTestimonial[] = [
     name: "Advanced Data Analytics",
     designation: "Coursera",
     company: "",
-    image: "https://randomuser.me/api/portraits/men/10.jpg",
+    image: "src/assets/coursera.png",
   },
   {
     testimonial:
       "In-depth course covering user experience principles, wireframing, prototyping, and usability testing to design intuitive user interfaces.",
-    name: "UX Design",
+    name: "UI / UX Design Specialization",
     designation: "Coursera",
     company: "",
-    image: "https://randomuser.me/api/portraits/women/11.jpg",
+    image: "src/assets/coursera.png",
   },
   {
     testimonial:
@@ -198,7 +198,7 @@ const testimonials: TTestimonial[] = [
     name: "Software Engineering",
     designation: "Coursera",
     company: "",
-    image: "https://randomuser.me/api/portraits/men/12.jpg",
+    image: "src/assets/coursera.png",
   },
   {
     testimonial:
@@ -206,7 +206,23 @@ const testimonials: TTestimonial[] = [
     name: "Corporate Finance",
     designation: "Linkedin Learning",
     company: "",
-    image: "https://randomuser.me/api/portraits/women/13.jpg",
+    image: "src/assets/linkedin.jpeg",
+  },
+{
+    testimonial:
+      "Comprehensive course on cybersecurity principles, covering topics such as network security, encryption techniques, and ethical hacking practices.",
+    name: "Cybersecurity Fundamentals",
+    designation: "Coursera",
+    company: "",
+    image: "src/assets/coursera.png",
+  },
+  {
+    testimonial:
+      "Comprehensive training on Java programming language, covering object-oriented concepts, data structures, and real-world application development.",
+    name: "Java Fundamentals",
+    designation: "Livewire",
+    company: "",
+    image: "src/assets/livewire.png",
   },
 ];
 
