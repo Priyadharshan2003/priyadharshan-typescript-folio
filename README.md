@@ -1,28 +1,7 @@
 # 3D Portfolio
-
 <!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/reactjs18-3d-portfolio?label=Latest%20release&style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/reactjs18-3d-portfolio?style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/reactjs18-3d-portfolio?style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/pulls)
-
 ![demo](image.png)
-
-[![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/reactjs18-3d-portfolio?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/reactjs18-3d-portfolio?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/reactjs18-3d-portfolio?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/reactjs18-3d-portfolio.svg)
-![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/reactjs18-3d-portfolio/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio/badge.svg)](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio)
-
-## 🌐 Live Demo
-
-Explore the live demonstration of the project:
-[reactjs18-3d-portfolio](https://reactjs18-3-d-portfolio.vercel.app/)
 
 ## 📝 Description
 
@@ -115,7 +94,6 @@ reactjs18-3d-portfolio/
 <details><summary>Table of Contents</summary>
 
 - [3D Portfolio](#3d-portfolio)
-  - [🌐 Live Demo](#-live-demo)
   - [📝 Description](#-description)
   - [📖 Table of Contents](#-table-of-contents)
   - [✨ Technologies Used](#-technologies-used)
@@ -128,11 +106,8 @@ reactjs18-3d-portfolio/
       - [Deploy to production (manual)](#deploy-to-production-manual)
       - [Deploy on Vercel (recommended)](#deploy-on-vercel-recommended)
       - [Deploy on Netlify](#deploy-on-netlify)
-  - [🔧 Contributing](#-contributing)
-    - [📩 Bug / Feature Request](#-bug--feature-request)
   - [💎 Acknowledgements](#-acknowledgements)
   - [📞 Contact Us](#-contact-us)
-  - [📋 License](#-license)
 
 </details>
 
@@ -272,32 +247,6 @@ You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/reactjs18-3d-portfolio)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and
-create. Any contributions you make are **greatly appreciated**.
-
-To fix a bug or enhance an existing module, follow these steps:
-
-1. Fork the repo
-2. Create a new branch (`git checkout -b improve-feature`)
-3. Make the appropriate changes in the files
-4. Commit your changes (`git commit -am 'Improve feature'`)
-5. Push to the branch (`git push origin improve-feature`)
-6. Create a Pull Request 🎉
-
-### 📩 Bug / Feature Request
-
-If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new) by including the issue with a
-title and clear description.
-
-If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new). Please include sample
-queries and their corresponding results.
-
 ## 💎 Acknowledgements
 
 I'd like to express my gratitude to the following people who helped me with this project and made it
@@ -317,15 +266,8 @@ possible:
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/ladunjexa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/lironabutbul)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/ladunjexa)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/827996364331810816)
+[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/priyadharshanc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/priyadharshan-chandranath/)
+[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/priyadharshan_chandranath)
+[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/priyadharshan_c)
 
-<!-- [![Twitter](https://img.shields.io/twitter/follow/ladunjexa.svg?style=social)](https://twitter.com/intent/follow?screen_name=ladunjexa) -->
-
-## 📋 License
-
-**Three.js 3D Portfolio** is open source software
-[licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
-[LICENSE](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE) for more details.
