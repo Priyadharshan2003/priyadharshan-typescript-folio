@@ -266,8 +266,8 @@ possible:
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/priyadharshanc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/priyadharshan-chandranath/)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/priyadharshan_chandranath)
-[![Discord](https://img.shields.io/badge/Discord-ladunjexa-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/priyadharshan_c)
+[![Telegram](https://img.shields.io/badge/Telegram-@priyadharshan?style=social&logo=telegram&logoColor=000000)](https://t.me/priyadharshanc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyadharshan-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/priyadharshan-chandranath/)
+[![Instagram](https://img.shields.io/badge/Instagram-priyadharshan-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/priyadharshan_chandranath)
+[![Discord](https://img.shields.io/badge/Discord-priyadharshan-7289da?style=flat&logo=discord&logoColor=b0c0c0&labelColor=2c2f33)](https://discord.com/users/priyadharshan_c)
 
