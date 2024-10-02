@@ -178,27 +178,35 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Comprehensive training on data collection, analysis, and visualization, using advanced techniques like regression analysis, clustering, and classification.",
+    name: "Advanced Data Analytics",
+    designation: "Coursera",
+    company: "",
+    image: "https://randomuser.me/api/portraits/men/10.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "In-depth course covering user experience principles, wireframing, prototyping, and usability testing to design intuitive user interfaces.",
+    name: "UX Design",
+    designation: "Coursera",
+    company: "",
+    image: "https://randomuser.me/api/portraits/women/11.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Focus on software development methodologies, version control, and debugging techniques for building scalable and maintainable software solutions.",
+    name: "Software Engineering",
+    designation: "Certification Program",
+    company: "",
+    image: "https://randomuser.me/api/portraits/men/12.jpg",
+  },
+  {
+    testimonial:
+      "Course covering financial statements, risk management, and investment strategies for business decision-making in corporate environments.",
+    name: "Corporate Finance",
+    designation: "Certification Program",
+    company: "",
+    image: "https://randomuser.me/api/portraits/women/13.jpg",
   },
 ];
 
