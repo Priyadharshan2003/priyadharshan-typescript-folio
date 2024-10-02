@@ -104,8 +104,6 @@ reactjs18-3d-portfolio/
   - [🔒 Environment Variables](#-environment-variables)
   - [🚀 Deployment](#-deployment)
       - [Deploy to production (manual)](#deploy-to-production-manual)
-      - [Deploy on Vercel (recommended)](#deploy-on-vercel-recommended)
-      - [Deploy on Netlify](#deploy-on-netlify)
   - [💎 Acknowledgements](#-acknowledgements)
   - [📞 Contact Us](#-contact-us)
 
@@ -231,22 +229,6 @@ You can create an optimized production build with the following command:
 ```bash
 npm run build
 ```
-
-#### Deploy on Vercel (recommended)
-
-The easiest way to deploy this Next.js app is to use the
-[Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Freactjs18-3d-portfolio)
-
-#### Deploy on Netlify
-
-You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
-
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/reactjs18-3d-portfolio)
-
-Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
 ## 💎 Acknowledgements
 
 I'd like to express my gratitude to the following people who helped me with this project and made it
