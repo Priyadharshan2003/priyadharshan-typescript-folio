@@ -30,6 +30,10 @@ import shogi from "./shogi.png";
 import mediband from "./mediband.png";
 import ecoswap from "./ecoswap.png";
 
+import linkedin from "./linkedin.jpeg";
+import coursera from "./coursera.png";
+import livewire from "./livewire.png";
+
 export {
   logo,
   backend,
@@ -59,4 +63,7 @@ export {
   shogi,
   mediband,
   ecoswap,
+  linkedin,
+  coursera,
+  livewire,
 };

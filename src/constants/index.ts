@@ -32,6 +32,9 @@ import {
   mediband,
   ecoswap,
   threejs,
+  coursera,
+  linkedin,
+  livewire,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -198,7 +201,7 @@ const testimonials: TTestimonial[] = [
     name: "Software Engineering",
     designation: "Coursera",
     company: "",
-    image: "src/assets/coursera.png",
+    image: coursera,
   },
   {
     testimonial:
@@ -206,7 +209,7 @@ const testimonials: TTestimonial[] = [
     name: "Corporate Finance",
     designation: "Linkedin Learning",
     company: "",
-    image: "src/assets/linkedin.jpeg",
+    image: linkedin,
   },
 {
     testimonial:
@@ -214,7 +217,7 @@ const testimonials: TTestimonial[] = [
     name: "Cybersecurity Fundamentals",
     designation: "Coursera",
     company: "",
-    image: "src/assets/coursera.png",
+    image: coursera,
   },
   {
     testimonial:
@@ -222,7 +225,7 @@ const testimonials: TTestimonial[] = [
     name: "Java Fundamentals",
     designation: "Livewire",
     company: "",
-    image: "src/assets/livewire.png",
+    image: livewire,
   },
 ];
 
