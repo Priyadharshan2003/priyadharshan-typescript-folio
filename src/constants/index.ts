@@ -241,7 +241,7 @@ const projects: TProject[] = [
         color: "blue-text-gradient",
       },
       {
-        name: "react",
+        name: "reactjs",
         color: "green-text-gradient",
       },
       {
