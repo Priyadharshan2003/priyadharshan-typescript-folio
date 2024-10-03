@@ -35,6 +35,7 @@ import {
   coursera,
   linkedin,
   livewire,
+  banner,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -231,6 +232,27 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
+    name: "Priyadharshan - 3D Portfolio",
+    description:
+      "A modern, interactive 3D portfolio built using Three.js, showcasing creative projects in an immersive and dynamic environment. This portfolio highlights personal work through visually stunning 3D elements and smooth animations, offering users a unique browsing experience.",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "threejs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: banner,
+    sourceCodeLink: "https://github.com/Priyadharshan2003/priyadharshan-typescript-folio.git",
+  },
+  {
     name: "Shogi-Tech Received ₹2Lakh Seed Funding",
     description:
       "Shogi Live Game Play Tracking is an innovative project designed to provide real-time tracking of Shogi (Japanese chess) game plays using sensors and web technologies. The project integrates hardware and software to automate the detection of Shogi piece movements on a physical board and display the live game state on a web application.",
@@ -254,7 +276,7 @@ const projects: TProject[] = [
   {
     name: "Osen Fainde – Won Best Hardware Hack Award",
     description:
-      "Developed an IoT-based device that detects air pollution levels in specific regions and alerts users in real time, Won the Best Hardware Hack Award for its innovative & potential for environmental impact, Incorporated real-time sensor data processing and a user-friendly interface, enhancing the device's practical application in urban environments.",
+      "Developed an IoT-based device that detects air pollution levels in specific regions and alerts users in real time, potential for environmental impact, Incorporated real-time sensor data processing and a user-friendly interface, enhancing the device's practical application in urban environments.",
     tags: [
       {
         name: "react",

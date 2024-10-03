@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
-    "@react-three/drei": "^9.99.4",
-    "@react-three/fiber": "^8.15.16",
+    "@react-three/drei": "^9.114.0",
+    "@react-three/fiber": "^8.17.9",
     "framer-motion": "^9.0.7",
     "maath": "^0.10.7",
     "react": "^18.2.0",
@@ -21,6 +21,7 @@
     "react-parallax-tilt": "^1.7.212",
     "react-router-dom": "^6.22.1",
     "react-vertical-timeline-component": "^3.6.0",
+    "swiper": "^11.1.14",
     "three": "^0.161.0",
     "threejs-3d-portfolio": "file:"
   },

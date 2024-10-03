@@ -33,6 +33,7 @@ import ecoswap from "./ecoswap.png";
 import linkedin from "./linkedin.jpeg";
 import coursera from "./coursera.png";
 import livewire from "./livewire.png";
+import banner from "./banner.png";
 
 export {
   logo,
@@ -66,4 +67,5 @@ export {
   linkedin,
   coursera,
   livewire,
+  banner,
 };
