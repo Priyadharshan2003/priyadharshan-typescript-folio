@@ -2,39 +2,46 @@ import {
     FiGithub,
     FiFigma,
     FiLinkedin,
-    FiGlobe,
     FiInstagram,
+    FiDribbble,
+    FiMail,
   } from "react-icons/fi";
 
 export const socialLinks = [
   {
     id: 1,
-    icon: FiGlobe,
-    url: "https://priyadharshan-portfolio.vercel.app",
-    hoverColor: "text-blue-500",
+    icon: FiMail,
+    url: "mailto:priyadharshanchandranath@gmail.com",
+    hoverColor: "text-pink-500",
   },
   {
     id: 2,
-    icon: FiGithub,
-    url: "https://github.com/priyadharshan2003",
-    hoverColor: "text-gray-800",
-  },
-  {
-    id: 3,
-    icon: FiFigma,
-    url: "https://www.figma.com/@prichan_uiux",
-    hoverColor: "text-purple-500",
-  },
-  {
-    id: 4,
     icon: FiLinkedin,
     url: "https://www.linkedin.com/in/priyadharshan-chandranath",
     hoverColor: "text-blue-600",
   },
   {
-    id: 5,
+    id: 3,
     icon: FiInstagram,
     url: "https://www.instagram.com/priyadharshan_chandranath",
+    hoverColor: "text-pink-500",
+  },
+  {
+    id: 4,
+    icon: FiGithub,
+    url: "https://github.com/priyadharshan2003",
+    hoverColor: "text-gray-800",
+  },
+  {
+    id: 5,
+    icon: FiFigma,
+    url: "https://www.figma.com/@prichan_uiux",
+    hoverColor: "text-purple-500",
+  },
+  {
+    id: 6,
+    icon: FiDribbble,
+    url: "https://dribbble.com/prichan_uiux",
     hoverColor: "text-pink-500",
   },
 ];
